@@ -1,3 +1,10 @@
-Interactive Power BI dashboards for E-commerce. Analyzes sales, logistics, and customer reviews. Features KPIs for conversion rates, payment methods, and shipping performance
+## Key Insights & Features
+* Sales Performance: Analysis of revenue, orders, and top product categories.
+* Logistics & Supply Chain: Monitoring delivery reliability, shipping costs, and lead times.
+* Customer Experience: Tracking average ratings and response times.
+* Financials: Breakdown of payment methods and installment patterns.
 
-Interaktive Power BI Dashboards für E-Commerce. Analyse von Umsatz, Logistik und Bewertungen. Beinhaltet KPIs zu Konversionsraten, Zahlungsarten und Lieferzeiten.
+## Tech Stack
+* Tool: Power BI Desktop, DAX, Power Query
+* Data Source: E-commerce Transactional Data
+* Visuals: Map integration, Gauge charts, Treemaps, and Time-series analysis.
